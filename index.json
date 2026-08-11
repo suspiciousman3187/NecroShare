@@ -1,7 +1,638 @@
 {
   "version": 1,
   "packs": [
-    {"id":"buy-1-moglophone","type":"injection","name":"Buy 1 Moglophone","author":"","version":"1","zone":"Rabao","npc":"???","steps":4,"url":"injections/buy-1-moglophone.necro","sha256":"c40f4e0391529a685e72ab2b4129a3c0493f99cce59dae22fb02957f0977a6d3","updatedAt":"2026-08-11T09:29:46.3586943+00:00"},
-    {"id":"ambuscade","type":"injection-set","name":"Ambuscade","author":"","version":"1","count":3,"injections":[{"name":"Buy Ambu Cape Mats Only","zone":"Mhaura","npc":"Gorpa-Masorpa","steps":32},{"name":"EnterAmbuLizardVD","zone":"Mhaura","npc":"Ambuscade Tome","steps":2},{"name":"All Total Hallmarks","zone":"Mhaura","npc":"Gorpa-Masorpa","steps":58}],"url":"injections/ambuscade.necro","sha256":"601548cec72067c53f2fd402e2ce2b6d71e4c00dd340123618af1b4a7f905d2b","updatedAt":"2026-08-11T09:29:46.7696375+00:00"}
+    {
+      "id": "buy-1-moglophone",
+      "type": "injection",
+      "name": "Buy 1 Moglophone",
+      "author": "",
+      "version": "1",
+      "zone": "Rabao",
+      "npc": "???",
+      "steps": 4,
+      "url": "injections/buy-1-moglophone.necro",
+      "sha256": "c40f4e0391529a685e72ab2b4129a3c0493f99cce59dae22fb02957f0977a6d3",
+      "updatedAt": "2026-08-11T09:29:46.3586943+00:00"
+    },
+    {
+      "id": "ambuscade",
+      "type": "injection-set",
+      "name": "Ambuscade",
+      "author": "",
+      "version": "1",
+      "count": 3,
+      "injections": [
+        {
+          "name": "Buy Ambu Cape Mats Only",
+          "zone": "Mhaura",
+          "npc": "Gorpa-Masorpa",
+          "steps": 32
+        },
+        {
+          "name": "EnterAmbuLizardVD",
+          "zone": "Mhaura",
+          "npc": "Ambuscade Tome",
+          "steps": 2
+        },
+        {
+          "name": "All Total Hallmarks",
+          "zone": "Mhaura",
+          "npc": "Gorpa-Masorpa",
+          "steps": 58
+        }
+      ],
+      "url": "injections/ambuscade.necro",
+      "sha256": "601548cec72067c53f2fd402e2ce2b6d71e4c00dd340123618af1b4a7f905d2b",
+      "updatedAt": "2026-08-11T09:29:46.7696375+00:00"
+    },
+    {
+      "id": "coalitions",
+      "type": "injection-set",
+      "name": "Coalitions",
+      "author": "",
+      "version": "1",
+      "count": 96,
+      "injections": [
+        {
+          "name": "ReportKamihrPeacekeepers",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "AcceptKamihrPeacekeepers",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "EastAdou->Pioneers",
+          "zone": "Eastern Adoulin",
+          "npc": "Waypoint",
+          "steps": 2
+        },
+        {
+          "name": "ReportKamihrPioneers",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "AcceptKamihrPioneers",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "AcceptKamihrPeacekeepersSilmaril",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "ReportKamihrPioneersSilmaril",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "AcceptKamihrPioneersSilmaril",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Ceizak Battlegrounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Cirdas Caverns",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Procure: Outer Ra'Kaznar",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Ceizak Battlegrounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Foret de Hannetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Ceizak Battlegrounds",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Yahse Hunting Grounds",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Morimar Basalt Fields",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Yorcia Weald",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Marjami Ravine",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Kamihr Drifts",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Cirdas Caverns",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Preserve: Outer Ra'Kaznar",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Rala Waterways",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Sih Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Moh Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Cirdas Caverns",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Doh Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Woh Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Patrol: Outer Ra'Kaznar",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Ceizak Battlegrounds",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Foret de Hennetiel",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Morimar Basalt Fields",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Yorcia Weald",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Marjami Ravine",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Kamihr Drifts",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Sih Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Cirdas Caverns",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Survey: Dho Gates",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Foret de Hennetiel",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Morimar Basalt Fields",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Yorcia Weald",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Marjami Ravine",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Kamihr Drifts",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Cirdas Caverns",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Analyze: Outer Ra'Kaznar",
+          "zone": "Eastern Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Rala Waterways",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Ceizak Battlegrounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Yahse Hunting Grounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Sih Gates",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Moh Gates",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Cirdas Caverns",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Dho Gates",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Woh Gates",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Outer Ra'Kaznar",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Gather: Ra'Kaznar Inner Court",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Ceizak Battlegrounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Recover: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Rala Waterways",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Research: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Boost: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Boost: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Boost: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Deliver: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Deliver: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Deliver: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Deliver: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Deliver: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Ceizak Battlegrounds",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Foret de Hennetiel",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Support: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Morimar Basalt Fields",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Yorcia Weald",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Marjami Ravine",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Kamihr Drifts",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Cirdas Caverns",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        },
+        {
+          "name": "Clear: Outer Ra'Kaznar",
+          "zone": "Western Adoulin",
+          "npc": "Task Delegator",
+          "steps": 1
+        }
+      ],
+      "url": "injections/coalitions.necro",
+      "sha256": "336a941466f82cd8a309c6469f0fd2918952236644788e89ebb79991affaf466",
+      "updatedAt": "2026-08-11T09:52:25.048Z"
+    }
   ]
 }
