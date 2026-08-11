@@ -554,6 +554,1081 @@
       "url": "injections/coalitions.necro",
       "sha256": "6b002f745d38f05eb9fcd82c5682b6bb38a6e81e7d19db62089bf598c7fd0e6d",
       "updatedAt": "2026-08-11T14:03:24.724Z"
+    },
+    {
+      "id": "tvr-missions",
+      "type": "injection-set",
+      "name": "TVR Missions",
+      "author": "",
+      "version": "1",
+      "count": 177,
+      "injections": [
+        {
+          "name": "TVR 1-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-2-1",
+          "zone": "Zeruhn Mines",
+          "npc": "Disturbed Dirt",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-2-2",
+          "zone": "Zeruhn Mines",
+          "npc": "Disturbed Dirt",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-3-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-3-2",
+          "zone": "Bastok Markets",
+          "npc": "Brygid",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-3-3 - Nbu Latteh - DONT MIRROR NEXT CS",
+          "zone": "Bastok Markets",
+          "npc": "Brygid",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-3-5",
+          "zone": "Bastok Markets",
+          "npc": "Brygid",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-4-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-4-2",
+          "zone": "Korroloka Tunnel",
+          "npc": "Stalagmite",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-4-3",
+          "zone": "Korroloka Tunnel",
+          "npc": "Stalagmite",
+          "steps": 1
+        },
+        {
+          "name": "TVR 1-4-4",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-1-1",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-1-2: Sassa Red Grass Cloth",
+          "zone": "Heavens Tower",
+          "npc": "Sassa-Kotassa",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-1-2 Trade Red Grass Cloth",
+          "zone": "Heavens Tower",
+          "npc": "Sassa-Kotassa",
+          "steps": 2
+        },
+        {
+          "name": "TVR 2-1-2 Sheelala Yagudo Drink",
+          "zone": "Heavens Tower",
+          "npc": "Sheelala",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-1-2 Trade Yagudo Drink",
+          "zone": "Heavens Tower",
+          "npc": "Sheelala",
+          "steps": 2
+        },
+        {
+          "name": "TVR 2-1-2 Dream Flower Petal",
+          "zone": "Heavens Tower",
+          "npc": "Habida-Jubida",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-1-2 Trade Dream Flower Petal",
+          "zone": "Heavens Tower",
+          "npc": "Habida-Jubida",
+          "steps": 2
+        },
+        {
+          "name": "TVR 2-1-3",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-2-1",
+          "zone": "Windurst Walls",
+          "npc": "Shantotto",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-2-2",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-2-3",
+          "zone": "East Sarutabaruta",
+          "npc": "Disturbed Earth",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-2-4",
+          "zone": "East Sarutabaruta",
+          "npc": "Disturbed Earth",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-2-5",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "TVR 2-3-1",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "2-4-1",
+          "zone": "Windurst Waters",
+          "npc": "Tosuka-Porika",
+          "steps": 1
+        },
+        {
+          "name": "2-4-2",
+          "zone": "Port Windurst",
+          "npc": "Kohlo-Lakolo",
+          "steps": 1
+        },
+        {
+          "name": "2-4-3",
+          "zone": "Port Windurst",
+          "npc": "Kohlo-Lakolo",
+          "steps": 1
+        },
+        {
+          "name": "2-4-4",
+          "zone": "Port Windurst",
+          "npc": "Kohlo-Lakolo",
+          "steps": 1
+        },
+        {
+          "name": "2-5-1",
+          "zone": "Port Windurst",
+          "npc": "Kohlo-Lakolo",
+          "steps": 1
+        },
+        {
+          "name": "2-5-2",
+          "zone": "West Sarutabaruta",
+          "npc": "Secluded Spot",
+          "steps": 1
+        },
+        {
+          "name": "2-5-3",
+          "zone": "West Sarutabaruta",
+          "npc": "Secluded Spot",
+          "steps": 1
+        },
+        {
+          "name": "2-5-4",
+          "zone": "Port Windurst",
+          "npc": "Kohlo-Lakolo",
+          "steps": 1
+        },
+        {
+          "name": "2-5-5",
+          "zone": "Heavens Tower",
+          "npc": "Kupipi",
+          "steps": 1
+        },
+        {
+          "name": "3-1-1",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-1-2",
+          "zone": "Davoi",
+          "npc": "Quemaricond",
+          "steps": 1
+        },
+        {
+          "name": "3-1-3",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Rahal",
+          "steps": 1
+        },
+        {
+          "name": "3-2-1",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-2-2: Harvest Solidago Flower",
+          "zone": "Attohwa Chasm",
+          "npc": "Harvesting Point",
+          "steps": 2
+        },
+        {
+          "name": "3-2-3",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Chalvatot",
+          "steps": 1
+        },
+        {
+          "name": "3-2-4",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-3-1",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-3-2",
+          "zone": "Ranguemont Pass",
+          "npc": "Vicious Claw Marks",
+          "steps": 1
+        },
+        {
+          "name": "3-3-4",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Door:Prince Royal's Rm",
+          "steps": 1
+        },
+        {
+          "name": "3-3-5",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Curilla",
+          "steps": 1
+        },
+        {
+          "name": "3-3-3",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-4-1",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "3-4-2",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Rahal",
+          "steps": 1
+        },
+        {
+          "name": "3-4-3",
+          "zone": "Beaucedine Glacier",
+          "npc": "Ferric Stench",
+          "steps": 1
+        },
+        {
+          "name": "3-4-4",
+          "zone": "Beaucedine Glacier",
+          "npc": "Point of Interest",
+          "steps": 1
+        },
+        {
+          "name": "3-5-1: Trade Doll Gizmo - 3-6: DONT MIRROR \"Climb The Cliff\"",
+          "zone": "Fei'Yin",
+          "npc": "Talos",
+          "steps": 3
+        },
+        {
+          "name": "3-5-3",
+          "zone": "Beaucedine Glacier",
+          "npc": "Point of Interest",
+          "steps": 1
+        },
+        {
+          "name": "4-1-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "4-1-2",
+          "zone": "Bastok Mines",
+          "npc": "Drangord",
+          "steps": 1
+        },
+        {
+          "name": "4-1-3",
+          "zone": "Zeruhn Mines",
+          "npc": "Quadav Inquest",
+          "steps": 1
+        },
+        {
+          "name": "4-1-4",
+          "zone": "Zeruhn Mines",
+          "npc": "Quadav Inquest",
+          "steps": 1
+        },
+        {
+          "name": "4-2-1",
+          "zone": "Metalworks",
+          "npc": "Iron Eater",
+          "steps": 1
+        },
+        {
+          "name": "4-2-2",
+          "zone": "Palborough Mines",
+          "npc": "Perversion's Refuge",
+          "steps": 1
+        },
+        {
+          "name": "4-2-3",
+          "zone": "Palborough Mines",
+          "npc": "Perversion's Refuge",
+          "steps": 1
+        },
+        {
+          "name": "4-2-4",
+          "zone": "Metalworks",
+          "npc": "Iron Eater",
+          "steps": 1
+        },
+        {
+          "name": "4-3-1",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Naja Salaheem",
+          "steps": 1
+        },
+        {
+          "name": "4-3-2",
+          "zone": "Wajaom Woodlands",
+          "npc": "Savage Scars",
+          "steps": 1
+        },
+        {
+          "name": "4-3-3",
+          "zone": "Wajaom Woodlands",
+          "npc": "Savage Scars",
+          "steps": 1
+        },
+        {
+          "name": "4-3-4",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Naja Salaheem",
+          "steps": 1
+        },
+        {
+          "name": "4-4-1",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Imperial Whitegate",
+          "steps": 1
+        },
+        {
+          "name": "4-4-2",
+          "zone": "Caedarva Mire",
+          "npc": "Savage Scars",
+          "steps": 1
+        },
+        {
+          "name": "4-4-3",
+          "zone": "Caedarva Mire",
+          "npc": "Savage Scars",
+          "steps": 1
+        },
+        {
+          "name": "4-4-4",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Imperial Whitegate",
+          "steps": 1
+        },
+        {
+          "name": "5-1-1",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Ghatsad",
+          "steps": 1
+        },
+        {
+          "name": "5-1-2",
+          "zone": "Mount Zhayolm",
+          "npc": "Acid-eaten Door",
+          "steps": 1
+        },
+        {
+          "name": "5-1-4",
+          "zone": "Caedarva Mire",
+          "npc": "Vexing Sniffles",
+          "steps": 1
+        },
+        {
+          "name": "5-1-3",
+          "zone": "Hazhalm Testing Grounds",
+          "npc": "Entry Gate",
+          "steps": 1
+        },
+        {
+          "name": "5-1-5",
+          "zone": "Caedarva Mire",
+          "npc": "Vexing Sniffles",
+          "steps": 1
+        },
+        {
+          "name": "5-1-6",
+          "zone": "Mount Zhayolm",
+          "npc": "Acid-eaten Door",
+          "steps": 1
+        },
+        {
+          "name": "5-1-7",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Ghatsad",
+          "steps": 1
+        },
+        {
+          "name": "5-2-1",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Abda-Lurabda",
+          "steps": 1
+        },
+        {
+          "name": "5-2-2",
+          "zone": "Aydeewa Subterrane",
+          "npc": "Survey Point",
+          "steps": 1
+        },
+        {
+          "name": "5-2-3",
+          "zone": "Aydeewa Subterrane",
+          "npc": "Survey Point",
+          "steps": 1
+        },
+        {
+          "name": "5-2-4",
+          "zone": "Aydeewa Subterrane",
+          "npc": "Survey Point",
+          "steps": 1
+        },
+        {
+          "name": "5-2-5",
+          "zone": "Aydeewa Subterrane",
+          "npc": "Final Survey Point",
+          "steps": 1
+        },
+        {
+          "name": "5-2-6",
+          "zone": "Aydeewa Subterrane",
+          "npc": "Final Survey Point",
+          "steps": 1
+        },
+        {
+          "name": "5-2-7",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Abda-Lurabda",
+          "steps": 1
+        },
+        {
+          "name": "5-3-1",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Tateeya",
+          "steps": 1
+        },
+        {
+          "name": "5-3-2",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Ghatsad",
+          "steps": 1
+        },
+        {
+          "name": "5-3-3",
+          "zone": "Jade Sepulcher",
+          "npc": "Ornamental Door",
+          "steps": 1
+        },
+        {
+          "name": "6-1-1",
+          "zone": "Reisenjima",
+          "npc": "Reikuu",
+          "steps": 1
+        },
+        {
+          "name": "6-1-2",
+          "zone": "Reisenjima",
+          "npc": "Incantrix",
+          "steps": 1
+        },
+        {
+          "name": "5-3-4",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Imperial Whitegate",
+          "steps": 1
+        },
+        {
+          "name": "5-4-1",
+          "zone": "Arrapago Reef",
+          "npc": "???",
+          "steps": 1
+        },
+        {
+          "name": "5-4-2: Trade Hamsi",
+          "zone": "Arrapago Reef",
+          "npc": "Apkallu Guide",
+          "steps": 2
+        },
+        {
+          "name": "5-4-3",
+          "zone": "Arrapago Reef",
+          "npc": "Camp Remnants",
+          "steps": 1
+        },
+        {
+          "name": "5-4-4",
+          "zone": "Arrapago Reef",
+          "npc": "???",
+          "steps": 1
+        },
+        {
+          "name": "5-5-1",
+          "zone": "Wajaom Woodlands",
+          "npc": "Leypoint",
+          "steps": 1
+        },
+        {
+          "name": "5-5-2",
+          "zone": "Arrapago Reef",
+          "npc": "Apkallu Guide",
+          "steps": 1
+        },
+        {
+          "name": "5-5-3",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Ghatsad",
+          "steps": 1
+        },
+        {
+          "name": "5-5-4",
+          "zone": "Aht Urhgan Whitegate",
+          "npc": "Ghatsad",
+          "steps": 1
+        },
+        {
+          "name": "5-5-5",
+          "zone": "Arrapago Reef",
+          "npc": "???",
+          "steps": 1
+        },
+        {
+          "name": "5-5-6",
+          "zone": "Arrapago Reef",
+          "npc": "Apkallu Guide",
+          "steps": 1
+        },
+        {
+          "name": "6-1-4",
+          "zone": "Reisenjima",
+          "npc": "Suspicious Overgrowth",
+          "steps": 2
+        },
+        {
+          "name": "6-1-5",
+          "zone": "Reisenjima",
+          "npc": "Reikuu",
+          "steps": 1
+        },
+        {
+          "name": "6-2-1",
+          "zone": "Reisenjima",
+          "npc": "Reikuu",
+          "steps": 1
+        },
+        {
+          "name": "6-2-2",
+          "zone": "Reisenjima",
+          "npc": "Incantrix",
+          "steps": 1
+        },
+        {
+          "name": "6-2-3",
+          "zone": "Reisenjima",
+          "npc": "Babbling Brook",
+          "steps": 1
+        },
+        {
+          "name": "6-2-4",
+          "zone": "Reisenjima",
+          "npc": "Incantrix",
+          "steps": 1
+        },
+        {
+          "name": "6-2-5",
+          "zone": "Reisenjima",
+          "npc": "Aspirants' Grounds",
+          "steps": 1
+        },
+        {
+          "name": "7-1-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "7-1-2",
+          "zone": "Rabao",
+          "npc": "Dancing Wolf",
+          "steps": 1
+        },
+        {
+          "name": "7-1-3",
+          "zone": "Quicksand Caves",
+          "npc": "???",
+          "steps": 1
+        },
+        {
+          "name": "7-3-1",
+          "zone": "Windurst Walls",
+          "npc": "Shantotto",
+          "steps": 1
+        },
+        {
+          "name": "7-3-2",
+          "zone": "Windurst Walls",
+          "npc": "Shantotto",
+          "steps": 2
+        },
+        {
+          "name": "6-3-1",
+          "zone": "Reisenjima",
+          "npc": "Reikuu",
+          "steps": 1
+        },
+        {
+          "name": "6-3-2",
+          "zone": "Reisenjima",
+          "npc": "Babbling Brook",
+          "steps": 1
+        },
+        {
+          "name": "6-3-3",
+          "zone": "Reisenjima",
+          "npc": "Reikuu",
+          "steps": 1
+        },
+        {
+          "name": "7-1-4",
+          "zone": "Quicksand Caves",
+          "npc": "???",
+          "steps": 1
+        },
+        {
+          "name": "7-2-1",
+          "zone": "Rabao",
+          "npc": "Dancing Wolf",
+          "steps": 1
+        },
+        {
+          "name": "7-2-2",
+          "zone": "Quicksand Caves",
+          "npc": "Journey's End",
+          "steps": 1
+        },
+        {
+          "name": "7-2-3",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "7-4-1",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Halver",
+          "steps": 1
+        },
+        {
+          "name": "7-4-2",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Rahal",
+          "steps": 1
+        },
+        {
+          "name": "7-4-3",
+          "zone": "Chateau d'Oraguille",
+          "npc": "Rahal",
+          "steps": 1
+        },
+        {
+          "name": "8-1-1",
+          "zone": "Ru'Lude Gardens",
+          "npc": "Maat",
+          "steps": 1
+        },
+        {
+          "name": "8-1-2",
+          "zone": "Lower Jeuno",
+          "npc": "Muckvix",
+          "steps": 1
+        },
+        {
+          "name": "8-1-3",
+          "zone": "Lower Jeuno",
+          "npc": "Miladi-Nildi",
+          "steps": 1
+        },
+        {
+          "name": "8-1-4",
+          "zone": "Batallia Downs",
+          "npc": "Goblin Festival Site",
+          "steps": 1
+        },
+        {
+          "name": "8-2-3",
+          "zone": "Qufim Island",
+          "npc": "Before Delkfutt's Tower",
+          "steps": 1
+        },
+        {
+          "name": "8-1-5",
+          "zone": "Batallia Downs",
+          "npc": "Goblin Festival Site",
+          "steps": 1
+        },
+        {
+          "name": "8-1-6",
+          "zone": "Ru'Lude Gardens",
+          "npc": "Maat",
+          "steps": 1
+        },
+        {
+          "name": "8-2-1",
+          "zone": "Lower Jeuno",
+          "npc": "Muckvix",
+          "steps": 1
+        },
+        {
+          "name": "8-2-2",
+          "zone": "Qufim Island",
+          "npc": "Before Delkfutt's Tower",
+          "steps": 1
+        },
+        {
+          "name": "8-2-4",
+          "zone": "Lower Jeuno",
+          "npc": "Muckvix",
+          "steps": 1
+        },
+        {
+          "name": "8-3-1",
+          "zone": "Port Jeuno",
+          "npc": "Shami",
+          "steps": 1
+        },
+        {
+          "name": "8-3-2",
+          "zone": "Southern San d'Oria [S]",
+          "npc": "Valaineral R Davilles",
+          "steps": 1
+        },
+        {
+          "name": "8-3-5",
+          "zone": "The Eldieme Necropolis [S]",
+          "npc": "Egg Discovery Site",
+          "steps": 1
+        },
+        {
+          "name": "8-3-6",
+          "zone": "The Eldieme Necropolis [S]",
+          "npc": "Egg Discovery Site",
+          "steps": 1
+        },
+        {
+          "name": "8-3-7",
+          "zone": "Southern San d'Oria [S]",
+          "npc": "Valaineral R Davilles",
+          "steps": 1
+        },
+        {
+          "name": "9-1-1",
+          "zone": "Celennia Memorial Library",
+          "npc": "Andreine",
+          "steps": 1
+        },
+        {
+          "name": "9-1-2",
+          "zone": "Marjami Ravine",
+          "npc": "Bibliomaniac's Lair",
+          "steps": 1
+        },
+        {
+          "name": "9-1-3",
+          "zone": "Celennia Memorial Library",
+          "npc": "Andreine",
+          "steps": 1
+        },
+        {
+          "name": "9-2-1",
+          "zone": "Western Adoulin",
+          "npc": "Marjoirelle",
+          "steps": 1
+        },
+        {
+          "name": "9-2-2",
+          "zone": "Leafallia",
+          "npc": "Odyssean Passage",
+          "steps": 1
+        },
+        {
+          "name": "9-2-3",
+          "zone": "Leafallia",
+          "npc": "Test of Talents",
+          "steps": 1
+        },
+        {
+          "name": "9-2-4",
+          "zone": "Celennia Memorial Library",
+          "npc": "Andreine",
+          "steps": 1
+        },
+        {
+          "name": "9-3-1",
+          "zone": "Eastern Adoulin",
+          "npc": "Glowing Hearth",
+          "steps": 1
+        },
+        {
+          "name": "9-3-2",
+          "zone": "Silver Knife",
+          "npc": "Oscarnot",
+          "steps": 1
+        },
+        {
+          "name": "9-3-3",
+          "zone": "Silver Knife",
+          "npc": "Gama-Shama",
+          "steps": 1
+        },
+        {
+          "name": "9-3-4 - TRADE WKR ITEM AFTER THIS",
+          "zone": "Eastern Adoulin",
+          "npc": "Runje Desaali",
+          "steps": 1
+        },
+        {
+          "name": "9-3-5",
+          "zone": "Eastern Adoulin",
+          "npc": "Runje Desaali",
+          "steps": 1
+        },
+        {
+          "name": "9-3-6",
+          "zone": "Eastern Adoulin",
+          "npc": "Runje Desaali",
+          "steps": 1
+        },
+        {
+          "name": "9-3-7",
+          "zone": "Eastern Adoulin",
+          "npc": "Runje Desaali",
+          "steps": 1
+        },
+        {
+          "name": "9-3-8: Wear Esthetes",
+          "zone": "Silver Knife",
+          "npc": "Zemerine",
+          "steps": 1
+        },
+        {
+          "name": "9-3-9",
+          "zone": "Silver Knife",
+          "npc": "Oscarnot",
+          "steps": 1
+        },
+        {
+          "name": "9-3-10",
+          "zone": "Eastern Adoulin",
+          "npc": "Glowing Hearth",
+          "steps": 1
+        },
+        {
+          "name": "9-4-1",
+          "zone": "Leafallia",
+          "npc": "Odyssean Passage",
+          "steps": 1
+        },
+        {
+          "name": "9-4-2",
+          "zone": "Leafallia",
+          "npc": "Odyssean Passage",
+          "steps": 2
+        },
+        {
+          "name": "9-4-3",
+          "zone": "Outer Ra'Kaznar",
+          "npc": "Shrouded Workroom",
+          "steps": 1
+        },
+        {
+          "name": "9-4-4",
+          "zone": "Leafallia",
+          "npc": "Odyssean Passage",
+          "steps": 1
+        },
+        {
+          "name": "10-1-1",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "10-1-2",
+          "zone": "Oldton Movalpolos",
+          "npc": "Tarnotik",
+          "steps": 1
+        },
+        {
+          "name": "10-1-3",
+          "zone": "Mine Shaft #2716",
+          "npc": "Shaft Entrance",
+          "steps": 1
+        },
+        {
+          "name": "10-2-1",
+          "zone": "The Boyahda Tree",
+          "npc": "Mandragora Warden",
+          "steps": 1
+        },
+        {
+          "name": "10-2-2",
+          "zone": "The Boyahda Tree",
+          "npc": "Mandragora Warden",
+          "steps": 2
+        },
+        {
+          "name": "10-2-3",
+          "zone": "The Boyahda Tree",
+          "npc": "Mandragora Warden",
+          "steps": 1
+        },
+        {
+          "name": "10-2-4",
+          "zone": "The Boyahda Tree",
+          "npc": "Mandragora Warden",
+          "steps": 2
+        },
+        {
+          "name": "10-3-1",
+          "zone": "Gusgen Mines",
+          "npc": "Hedrov",
+          "steps": 1
+        },
+        {
+          "name": "10-3-2",
+          "zone": "Gusgen Mines",
+          "npc": "Hedrov",
+          "steps": 2
+        },
+        {
+          "name": "10-4-1",
+          "zone": "Oldton Movalpolos",
+          "npc": "Tarnotik",
+          "steps": 1
+        },
+        {
+          "name": "10-4-2",
+          "zone": "Oldton Movalpolos",
+          "npc": "Tarnotik",
+          "steps": 1
+        },
+        {
+          "name": "10-4-3",
+          "zone": "Throne Room",
+          "npc": "Throne Room",
+          "steps": 1
+        },
+        {
+          "name": "10-5-1",
+          "zone": "Xarcabard",
+          "npc": "Heroes' Gambit",
+          "steps": 1
+        },
+        {
+          "name": "10-5-2",
+          "zone": "Castle Zvahl Keep",
+          "npc": "Valhallan Rift",
+          "steps": 1
+        },
+        {
+          "name": "10-5-3",
+          "zone": "Xarcabard",
+          "npc": "Heroes' Gambit",
+          "steps": 1
+        },
+        {
+          "name": "10-6-1",
+          "zone": "Xarcabard",
+          "npc": "Heroes' Gambit",
+          "steps": 1
+        },
+        {
+          "name": "10-6-2",
+          "zone": "Dynamis - Xarcabard",
+          "npc": "Before Castle Zvahl",
+          "steps": 1
+        },
+        {
+          "name": "10-6-3",
+          "zone": "Bastok Mines",
+          "npc": "Gumbah",
+          "steps": 1
+        },
+        {
+          "name": "11-1-3",
+          "zone": "La Theine Plateau",
+          "npc": "Moogle Meeting",
+          "steps": 1
+        },
+        {
+          "name": "11-2-1",
+          "zone": "Xarcabard",
+          "npc": "Heroes' Gambit",
+          "steps": 1
+        },
+        {
+          "name": "11-2-2",
+          "zone": "Castle Zvahl Keep",
+          "npc": "Valhallan Rift",
+          "steps": 1
+        }
+      ],
+      "url": "injections/tvr-missions.necro",
+      "sha256": "78fa46ef1a0ada92bca0f1bc53b2346c6fedc26d99d58592a78ebd739ecf6c55",
+      "updatedAt": "2026-08-11T14:05:15.020Z"
     }
   ]
 }
