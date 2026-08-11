@@ -1762,6 +1762,79 @@
       "url": "injections/htmb-sandoria.necro",
       "sha256": "01ee9a0f49331e3a755103c4ffbb6e8ff5e17c5213aa3599bad084ecceb06e64",
       "updatedAt": "2026-08-11T14:05:22.041Z"
+    },
+    {
+      "id": "escha-ruaun-geas-fete",
+      "type": "injection-set",
+      "name": "Escha RuAun Geas Fete",
+      "author": "",
+      "version": "1",
+      "count": 10,
+      "injections": [
+        {
+          "name": "Ma's Lance",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Khon's Scepter",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Met's Ring",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Khun's Crown",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Wasserspeier's Horn",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Emputa's Wing",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Peirithoos's Hoof",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Asida's Gel",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Tenodera's Scythe",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        },
+        {
+          "name": "Sava Savanovic's Cape",
+          "zone": "Escha - Ru'Aun",
+          "npc": "Dremi",
+          "steps": 2
+        }
+      ],
+      "url": "injections/escha-ruaun-geas-fete.necro",
+      "sha256": "d33908fb243a4373e0e8f79e3f26de21504df8baed4426eec94af50e746b879b",
+      "updatedAt": "2026-08-11T14:12:47.874Z"
     }
   ]
 }
