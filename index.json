@@ -1629,6 +1629,139 @@
       "url": "injections/tvr-missions.necro",
       "sha256": "78fa46ef1a0ada92bca0f1bc53b2346c6fedc26d99d58592a78ebd739ecf6c55",
       "updatedAt": "2026-08-11T14:05:15.020Z"
+    },
+    {
+      "id": "htmb-sandoria",
+      "type": "injection-set",
+      "name": "HTMB - Sandoria",
+      "author": "",
+      "version": "1",
+      "count": 20,
+      "injections": [
+        {
+          "name": "Ode To Life Bestowing",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "The Shadow Lord Battle",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Return To Delkfutt's Tower",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "The Celestial Nexus",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Ark Angel HM",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Ark Angel EV",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Ark Angel MR",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "The Wyrm God",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Maiden Of The Dusk",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Divine Interference",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Champion Of The Dawn",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Ark Angel TT",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "The Savage",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "The Warrior's Path",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Puppet In Peril",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Legacy Of The Lost",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "Head Wind",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        },
+        {
+          "name": "One To Be Feared",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Dawn",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 2
+        },
+        {
+          "name": "Ark Angel GK",
+          "zone": "Northern San d'Oria",
+          "npc": "Trisvain",
+          "steps": 1
+        }
+      ],
+      "url": "injections/htmb-sandoria.necro",
+      "sha256": "01ee9a0f49331e3a755103c4ffbb6e8ff5e17c5213aa3599bad084ecceb06e64",
+      "updatedAt": "2026-08-11T14:05:22.041Z"
     }
   ]
 }
