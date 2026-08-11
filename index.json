@@ -1835,6 +1835,97 @@
       "url": "injections/escha-ruaun-geas-fete.necro",
       "sha256": "d33908fb243a4373e0e8f79e3f26de21504df8baed4426eec94af50e746b879b",
       "updatedAt": "2026-08-11T14:12:50.986Z"
+    },
+    {
+      "id": "reisenjima-geas-fete",
+      "type": "injection-set",
+      "name": "Reisenjima Geas Fete",
+      "author": "",
+      "version": "1",
+      "count": 13,
+      "injections": [
+        {
+          "name": "Buy Radialens",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 7
+        },
+        {
+          "name": "Crom Dubh's Helm",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Golden Kist's Key",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Mauve-wristed Gomberry's Knife",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Dazzling Dolores's Vine",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Taelmoth's Staff",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Belphegor's Crown",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Kabandha's Wing",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Selkit's Pincer",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Sang Buaya's Tusk",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Sabotender Royal's Needle",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Zduhac's Talon",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        },
+        {
+          "name": "Oryx's Plumage",
+          "zone": "Reisenjima",
+          "npc": "Shiftrix",
+          "steps": 2
+        }
+      ],
+      "url": "injections/reisenjima-geas-fete.necro",
+      "sha256": "7e993c4a47beaae0296b54d22ad495a2958c548a029f8f6a2b5180ddfa5bbe97",
+      "updatedAt": "2026-08-11T14:15:51.006Z"
     }
   ]
 }
