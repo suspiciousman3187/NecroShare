@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "packs": [
+    {"id":"buy-1-moglophone","type":"injection","name":"Buy 1 Moglophone","author":"","version":"1","zone":"Rabao","url":"injections/buy-1-moglophone.necro","sha256":"c40f4e0391529a685e72ab2b4129a3c0493f99cce59dae22fb02957f0977a6d3"},
+    {"id":"ambuscade","type":"injection-set","name":"Ambuscade","author":"","version":"1","url":"injections/ambuscade.necro","sha256":"601548cec72067c53f2fd402e2ce2b6d71e4c00dd340123618af1b4a7f905d2b"}
+  ]
+}

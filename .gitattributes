@@ -1,0 +1,4 @@
+# Packs are SHA-256 verified by the app. Treat them as binary so git never rewrites line
+# endings on commit/checkout, which would change the bytes and break the hash.
+*.necro binary
+*.antiheropack binary
